@@ -1,1 +1,4 @@
 Hello! I'm just practicing how to use Git and Github!
+
+I am testing out the git commit message thing from TOP. I guess I
+will see if it works!
